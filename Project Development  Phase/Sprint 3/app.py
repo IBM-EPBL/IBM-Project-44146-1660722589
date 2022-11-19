@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-This is a temporary script file.
-"""
-
 from flask import Flask, render_template, request, redirect, session 
 # from flask_mysqldb import MySQL
 # import MySQLdb.cursors
@@ -211,13 +205,6 @@ def login():
             msg = 'Incorrect username / password !'
         
     return render_template('login.html', msg = msg)
-
-
-
-       
-
-
-
 
 
 #ADDING----DATA
