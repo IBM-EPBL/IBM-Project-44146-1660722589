@@ -11,4 +11,5 @@ Almost everything in our world turned digital like making transactions , payment
 # Solution : 
  We have created a web application that helps the user to add expenses on daily/monthly/yearly basis.Most importantly they can set limit for expenses amount.If the user exceeds they will get an email.The application has pie chart representations to show the expenses in daily/monthly/yearly basis.
 
-# Above submitted folders and files are our team work. We have submitted all the given tasks and templates to the best of our knowledge.
+# note
+Above submitted folders and files are our team work. We have submitted all the given tasks and templates to the best of our knowledge.
